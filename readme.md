@@ -33,7 +33,7 @@ If you wanted to use this in production, there are still a few things left to do
 - Create and manage a feature flag system
 - Implement caching mechanisms / build settings such that you don't affect cold start.
 
-Alternitely, [Screenplay](https://screenplay.dev) does this all for you! If you're interested, please feel free to reach out.
+Alternatively, [Screenplay](https://screenplay.dev) does this all for you! If you're interested, please feel free to reach out.
 
 ## Copyright
 
